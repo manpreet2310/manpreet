@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Asymmetric solitary waves observed by MMS",
+    "text": "Identified recurrent asymmetric electrostatic waveforms with unequal bipolar peaks and oscillatory tails. Combining waveform statistics, polarization and propagation diagnostics with particle-in-cell calculations and synthetic spacecraft crossings to distinguish intrinsic asymmetry from viewing geometry and constrain nonlinear structure formation.",
+    "status": "Observations and initial statistics obtained; kinetic pilot calculations and geometric tests completed; mechanism validation ongoing."
+  },
+  {
+    "title": "Strong perpendicular wave–particle energy transfer in MMS observations",
+    "text": "Identified intervals of strong perpendicular electric-field–current energy exchange. Using field-aligned decomposition of J·E, plasma-frame diagnostics, wave spectra and particle velocity distributions to assess the role of perpendicular interactions in collisionless energization and distinguish energy exchange from irreversible heating.",
+    "status": "Event analysis and diagnostic framework developed; cadence, reference-frame and heating checks ongoing."
+  },
+  {
+    "title": "Pair starvation and ion loading in pulsar current sheets",
+    "text": "Two related manuscripts. Pair starvation: derived current-support bounds under finite particle-energy constraints and examined how ion loading changes the available current. Tearing instability: developed composition and enthalpy criteria to separate bulk ion inertia from direct current-sheet response. These studies constrain when pulsar-wind sheets can sustain current and when ion loading may affect reconnection.",
+    "status": "Analytical models and manuscript drafts prepared; tearing-specific validation ongoing."
+  },
+  {
+    "title": "Double-layer formation through offset density and temperature gradients",
+    "text": "Developed a one-dimensional fluid–Poisson framework showing how displaced density and temperature profiles break symmetry and permit a finite potential jump. Derived an offset-dependent voltage scaling and generalized the voltage budget to pressure, inertia and current effects, providing testable criteria for electrostatic particle acceleration.",
+    "status": "Analytical framework, figures and manuscript draft prepared; numerical validation ongoing."
+  },
+  {
+    "title": "Radio plasma lensing by MHD shocks",
+    "text": "Combined ion–neutral dispersion analysis, pressure constraints and radio ray tracing to test whether shock-associated plasma sheets can produce extreme scattering events. Calculated lensing light curves and caustic thresholds, identifying a mismatch between assumed sub-AU lens widths and ion–neutral shock scales that constrains viable lens-formation models.",
+    "status": "Numerical study and technical draft completed; self-consistent lens formation under investigation."
+  },
+  {
+    "title": "MMS search for magnetosheath double layers",
+    "text": "Compiled a list of MMS magnetosheath intervals containing double-layer. Applying region identification, electric-field morphology, potential-jump and particle-distribution diagnostics to distinguish double layers from bipolar solitary structures and assess localized electron acceleration in the magnetosheath.",
+    "status": "Interval catalogue and search strategy completed; basic properties such as speed, wavelength, and angle of propagation measured with MMS spacecraft; statistical analysis ongoing."
+  },
+  {
+    "title": "QED-modified inertial Alfvén waves",
+    "text": "Derived a cold multifluid framework coupling vacuum-polarization corrections to finite-inertia Alfvén waves in magnetized electron–positron–ion plasmas. Established leading-order Hall cancellation and examined weak trace-ion mass loading; extended the model to test whether QED frequency shifts can control resonant instability in streaming plasmas near magnetars.",
+    "status": "Baseline derivation and extended manuscript draft prepared; resonance and parameter-regime validation ongoing."
+  },
+  {
+    "title": "Ion-acoustic waves in the interstellar medium",
+    "text": "Investigating the excitation and propagation of ion-acoustic disturbances under interstellar plasma conditions, emphasizing physical existence constraints rather than unrestricted parameter scans. The study uses fluid dispersion analysis and parameter-space mapping to assess how composition, temperature and magnetization govern viable electrostatic modes and their potential role in energy transport.",
+    "status": "Theoretical study in progress; applicability constraints and manuscript development ongoing."
+  }
+]
